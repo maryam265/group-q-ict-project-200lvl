@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Dashboard | Group Q</title>
+    <!-- Google Fonts for modern typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Chart.js for rendering the 7-day sparklines -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Top Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">
+            <span class="icon">⚡</span>
+            Group Q Crypto
+        </div>
+        <div class="global-stats">
+            <span>Global Market Cap: <strong id="global-cap">Loading...</strong></span>
+            <span>24h Volume: <strong id="global-vol">Loading...</strong></span>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container">
+        <header class="page-header">
+            <h1>Cryptocurrency Prices by Market Cap</h1>
+            <p>Real-time updates directly from the live crypto market.</p>
+        </header>
+
+        <!-- Data Table -->
+        <div class="table-container">
+            <table class="crypto-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>24h %</th>
+                        <th>Market Cap</th>
+                        <th>Volume (24h)</th>
+                        <th>Last 7 Days</th>
+                    </tr>
+                </thead>
+                <tbody id="crypto-table-body">
+                    <!-- Rows will be dynamically injected by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
