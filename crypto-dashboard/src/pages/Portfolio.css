@@ -1,0 +1,55 @@
+.portfolio-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.portfolio-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.portfolio-summary {
+  display: flex;
+  gap: 2rem;
+  padding: 1.5rem 2rem;
+}
+
+.summary-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.summary-label {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.summary-val {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.empty-portfolio {
+  text-align: center;
+  padding: 4rem 2rem;
+  margin-top: 2rem;
+}
+
+.empty-portfolio h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+.empty-portfolio p {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
