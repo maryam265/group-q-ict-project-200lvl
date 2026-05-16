@@ -1,15 +1,19 @@
 # Project Documentation: CryptoDash
-
+groupqcryptodash.netlify.app
 ## Project Title
 CryptoDash - Premium Cryptocurrency Tracking Dashboard
 
 ## Group Members
-1. [Insert Member 1 Name] - [Insert Matric Number]
-2. [Insert Member 2 Name] - [Insert Matric Number]
-3. [Insert Member 3 Name] - [Insert Matric Number]
-4. [Insert Member 4 Name] - [Insert Matric Number]
-*(Please add/edit names and matric numbers as appropriate)*
-
+1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 ## Features Implemented
 1. **Live Coin Prices:** Integration with CoinGecko API to fetch real-time data for global market statistics, trending coins, and top 100 cryptocurrencies by market cap.
 2. **Interactive Price Charts:** Historical price line charts with interactive tooltips, powered by Chart.js. Includes time-range filtering (1D, 7D, 30D, 90D, 365D).
