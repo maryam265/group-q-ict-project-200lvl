@@ -1,7 +1,6 @@
 Project Documentation: CryptoDash
-groupqcryptodash.netlify.app
-Project Title
-CryptoDash - Premium Cryptocurrency Tracking Dashboard
+Project link: groupqcryptodash.netlify.app
+Project Title: CryptoDash - Premium Cryptocurrency Tracking Dashboard
 
 Group Members
 1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
