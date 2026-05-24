@@ -6,8 +6,8 @@ Group Members
 1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
 2. OLUWADARE ISAAC OLUWAKOREDE -LCU/UG/24/28563
 3. OLADAYO OLUWAFERANMI TOBILOBA-LCU/UG/24/33535
-4. 
-5. 
+4. OKAFOR CHISOM CELINE-LCU/UG/24/32815
+5.ALBERT TEMINIOLUWA-LCU/UG/24/29964 
 6. 
 7. 
 8. 
@@ -24,7 +24,7 @@ Features Implemented
 8. Search & Filter functionality:Find coins instantly by name or symbol on the Market page.
 
  Tools Used
-- Frontend Framework:*React (Vite)
+- Frontend Framework:React (Vite)
 - Routing: React Router v6
 - State Management:React Context API & React Hooks (`useState`, `useEffect`)
 - Styling:Custom CSS with CSS Variables for Theme Management (Glassmorphism & Dark Mode)
@@ -35,9 +35,9 @@ Features Implemented
 
 Challenges Faced
 - API Rate Limiting: Free cryptocurrency APIs like CoinGecko impose strict rate limits. We managed this by minimizing unnecessary network calls and loading specific endpoints.
-- **Complex State Management:** Passing portfolio and theme data across deeply nested components was initially challenging. We resolved this by implementing the Context API, avoiding prop drilling.
+- Complex State Management:Passing portfolio and theme data across deeply nested components was initially challenging. We resolved this by implementing the Context API, avoiding prop drilling.
 - Responsive Charting:Ensuring the Chart.js canvas resized perfectly across mobile, tablet, and desktop without losing resolution required fine-tuning CSS flex layouts and chart options.
-- **Asynchronous Data Handling:** Implementing cohesive loading spinners and error states while awaiting multiple concurrent API promises (e.g., fetching coin details + historical data simultaneously).
+- Asynchronous Data Handling:Implementing cohesive loading spinners and error states while awaiting multiple concurrent API promises (e.g., fetching coin details + historical data simultaneously).
 
 Conclusion
 CryptoDash successfully demonstrates the application of modern web development principles to build a "real-world" decentralized finance dashboard. By utilizing React's component-based architecture alongside context-driven state management and dynamic routing, we have delivered an intuitive, high-performance platform. The integration of live API data and persistent storage provides users with practical utility for tracking their cryptocurrency investments.
