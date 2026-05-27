@@ -1,14 +1,14 @@
 Project Documentation: CryptoDash
 Project link: groupqcryptodash.netlify.app
 Project Title: CryptoDash - Premium Cryptocurrency Tracking Dashboard
-
+Department: computer science
 Group Members
 1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
 2. OLUWADARE ISAAC OLUWAKOREDE -LCU/UG/24/28563
 3. OLADAYO OLUWAFERANMI TOBILOBA-LCU/UG/24/33535
 4. OKAFOR CHISOM CELINE-LCU/UG/24/32815
 5. ALBERT TEMINIOLUWA-LCU/UG/24/29964
-6. 
+6. OLASEINDE SAMUEL OLUWATOSIN-LCU/UG/24/30742
 7.  
 8. 
 9. 
