@@ -24,17 +24,12 @@ Table of Contents
 Designed to provide a seamless "decentralized finance" dashboard experience, CryptoDash aggregates massive amounts of data from the CoinGecko API and presents it intuitively. Users can explore the top 100 cryptocurrencies by market capitalization, track trending coins, and view detailed historical price data to make informed decisions. 
 
  Group Members
-1. MUHAMMED MARYAM MAYOWA - LCU/UG/24/29701
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-
+1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
+2. OLUWADARE ISAAC OLUWAKOREDE -LCU/UG/24/28563
+3. OLADAYO OLUWAFERANMI TOBILOBA-LCU/UG/24/33535
+4. OKAFOR CHISOM CELINE-LCU/UG/24/32815
+5. ALBERT TEMINIOLUWA-LCU/UG/24/29964
+6. OLASEINDE SAMUEL OLUWATOSIN-LCU/UG/24/30742
 
 Key Features
 Real-Time Market Data: Live integration with the CoinGecko API for instant global market stats, trending assets, and top coin rankings.
