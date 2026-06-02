@@ -1,6 +1,6 @@
-Project Documentation: CryptoDash
+Project Documentation: Cryptocurrency Dashboard
 Project link: groupqcryptodash.netlify.app
-Project Title: CryptoDash - Premium Cryptocurrency Tracking Dashboard
+Project Title: Cryptocurrency Dashboard - Premium Cryptocurrency Tracking Dashboard
 Department: computer science
 Group Members
 1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
@@ -41,4 +41,4 @@ Challenges Faced
 - Asynchronous Data Handling:Implementing cohesive loading spinners and error states while awaiting multiple concurrent API promises (e.g., fetching coin details + historical data simultaneously).
 
 Conclusion
-CryptoDash successfully demonstrates the application of modern web development principles to build a "real-world" decentralized finance dashboard. By utilizing React's component-based architecture alongside context-driven state management and dynamic routing, we have delivered an intuitive, high-performance platform. The integration of live API data and persistent storage provides users with practical utility for tracking their cryptocurrency investments.
+The Cryptocurrency Dashboard successfully demonstrates the application of modern web development principles to build a "real-world" decentralized finance dashboard. By utilizing React's component-based architecture alongside context-driven state management and dynamic routing, we have delivered an intuitive, high-performance platform. The integration of live API data and persistent storage provides users with practical utility for tracking their cryptocurrency investments.

@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          Crypto<span className="text-accent">Dash</span>
+          Crypto<span className="text-accent">Dashboard</span>
         </Link>
         <div className="navbar-links">
           <Link to="/">Dashboard</Link>

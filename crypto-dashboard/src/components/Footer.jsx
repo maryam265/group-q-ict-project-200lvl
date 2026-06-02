@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
-          <h3>Crypto<span className="text-accent">Dash</span></h3>
+          <h3>Crypto<span className="text-accent">Dashboard</span></h3>
           <p>Your premium cryptocurrency tracking dashboard. Real-time data, beautiful charts, and portfolio management.</p>
         </div>
         <div className="footer-section">
@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} CryptoDash. Group Q Project.</p>
+        <p>&copy; {new Date().getFullYear()} Cryptocurrency Dashboard. Group Q Project.</p>
       </div>
     </footer>
   );
