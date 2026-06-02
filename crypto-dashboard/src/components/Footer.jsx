@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Cryptocurrency Dashboard. Group Q Project.</p>
+        <p>&copy; {new Date().getFullYear()} Cryptocurrency Dashboard. Group Q Project. Made for academic submission.</p>
       </div>
     </footer>
   );
