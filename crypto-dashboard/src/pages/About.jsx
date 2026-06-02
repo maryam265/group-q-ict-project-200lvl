@@ -8,7 +8,10 @@ const About = () => {
     { name: 'OLADAYO OLUWAFERANMI TOBILOBA', matric: 'LCU/UG/24/33535' },
     { name: 'OKAFOR CHISOM CELINE', matric: 'LCU/UG/24/32815' },
     { name: 'ALBERT TEMINIOLUWA', matric: 'LCU/UG/24/29964' },
-    { name: 'OLASEINDE SAMUEL OLUWATOSIN', matric: 'LCU/UG/24/30742' }
+    { name: 'OLASEINDE SAMUEL OLUWATOSIN', matric: 'LCU/UG/24/30742' },
+    { name: 'AGBOGHOROMA ABRAHAM TEMISAN', matric: 'LCU/PT/24/0799' },
+    { name: 'GABRIEL NAETOCHUKWU', matric: 'LCU/UG/24/31179' },
+    { name: 'BELLO EMMANUEL FATAHI', matric: 'LCU/UG/24/28733' }
   ];
 
   return (
