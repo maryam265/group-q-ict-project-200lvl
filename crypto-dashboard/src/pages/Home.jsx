@@ -48,7 +48,7 @@ const Home = () => {
       </div>
 
       <div className="trending-section">
-        <h2 className="section-title">Trending Coins 🔥</h2>
+        <h2 className="section-title">Trending Coins</h2>
         {loading ? (
           <div className="loader-container"><div className="spinner"></div></div>
         ) : error ? (
