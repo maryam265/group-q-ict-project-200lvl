@@ -1,11 +1,5 @@
 CryptoDash - Premium Cryptocurrency Tracking Dashboard
-
-Live Preview -https://img.shields.io/badge/Live_Preview-groupqcryptodash.netlify.app-blue?style=for-the-badge
-React -https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-Vite -https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
-
-Live Application: [groupqcryptodash.netlify.app] (https://groupqcryptodash.netlify.app)
-
+Live Application: [group-q-ict-project-200lvl.vercel.app]
 CryptoDash is a modern, responsive, and highly interactive cryptocurrency tracking dashboard built with React. It empowers users to monitor real-time global market statistics, analyze price trends through interactive charts, and manage their personal crypto portfolios in a sleek, glassmorphism-inspired UI.
 
 Table of Contents
@@ -22,14 +16,6 @@ Table of Contents
 
  Project Overview
 Designed to provide a seamless "decentralized finance" dashboard experience, CryptoDash aggregates massive amounts of data from the CoinGecko API and presents it intuitively. Users can explore the top 100 cryptocurrencies by market capitalization, track trending coins, and view detailed historical price data to make informed decisions. 
-
- Group Members
-1. MUHAMMED MARYAM MAYOWA -LCU/UG/24/29701
-2. OLUWADARE ISAAC OLUWAKOREDE -LCU/UG/24/28563
-3. OLADAYO OLUWAFERANMI TOBILOBA-LCU/UG/24/33535
-4. OKAFOR CHISOM CELINE-LCU/UG/24/32815
-5. ALBERT TEMINIOLUWA-LCU/UG/24/29964
-6. OLASEINDE SAMUEL OLUWATOSIN-LCU/UG/24/30742
 
 Key Features
 Real-Time Market Data: Live integration with the CoinGecko API for instant global market stats, trending assets, and top coin rankings.
