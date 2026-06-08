@@ -13,6 +13,7 @@ Group Members
 8. GABRIEL NAETOCHUKWU-LCU/UG/24/31179
 9. BELLO EMMANUEL FATAHI-LCU/UG/24/28733
 10. Adeyinka Oluwapelumi Mueen-LCU/UG/24/30974
+ 
 Features Implemented
 1. Live Coin Prices:Integration with CoinGecko API to fetch real-time data for global market statistics, trending coins, and top 100 cryptocurrencies by market cap.
 2. Interactive Price Charts: Historical price line charts with interactive tooltips, powered by Chart.js. Includes time-range filtering (1D, 7D, 30D, 90D, 365D).
